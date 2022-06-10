@@ -8,5 +8,6 @@ namespace Hierarchie1
 {
     public class Mercedes_Accros : TruckTemplate
     {
+
     }
 }
